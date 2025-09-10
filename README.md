@@ -1,2 +1,2 @@
 # pvpMathQuiz_8086
-pointlessExerciseForSchool
+anotherPointlessExerciseForSchool
